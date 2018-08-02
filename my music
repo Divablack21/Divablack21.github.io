@@ -1,1 +1,25 @@
+<doc type HTML>
+<html>
+<head>
+<title> My Favorite music </title>
+</head>
+<body>
+you can put your menu into a table!!
+<h1> Gospel Music for the soul </h1>
 
+<table  Border="5" cell padding="25"
+Cell spacing="5">
+     <tr> <td> <button>Tamela Mann</button></td>
+     </tr> <tr> <td> <button>Keith Pringle</button></td>
+     </tr> <tr> <td> <button>Kirk Franklin</button></td>
+</tr> 
+</table>
+GO TO YOU TUBE AND FIND A VIDEO YOU LIKE AND EMBEDD THE IFRAME CODE RIGHT ON YOUR PAGE!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BZT8jqsc8lQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-s8HMmvN-Jc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+</body>
+</html>
